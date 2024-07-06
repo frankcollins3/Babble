@@ -1,5 +1,5 @@
 # Babble
-self-parsing compiler for personality (non startup non significant just idea concept)
+self-parsing compiler for personality pinpointing (non startup non significant just idea concept)
 // note working on attempt at startup so these concepts may be !organized. Just connecting dots (if) in simples/generals
 
 # where idea came from:
